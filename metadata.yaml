@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5287
     wikipedia: http://en.wikipedia.org/wiki/Marie_Bashkirtseff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13916#Marie-Bashkirtseff--From-Childhood-to-Girlhood-
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
